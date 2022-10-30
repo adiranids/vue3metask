@@ -43,7 +43,7 @@ isMetamaskSupported = Callback to check if Metamask is installed in the browser
 
 # Issues
 
-Any issues, kindly report here.
+Any issues, kindly report [here](https://github.com/adiranids/vue3metask/issues).
 
 
 # License
